@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prajwal Waghmare</h1>
-<h3 align="center">Passion-driven professional offering nearly 2 years of experience in Full-Stack Development.</h3>
+<h3 align="center">Passion-driven professional offering 3+ years of experience in Full-Stack Development.</h3>
 
 - 🌱 I’m currently learning **Next.JS,**
 
-- 💬 Ask me about **ReactJs, NodeJs, NestJS, AWS, BlockChain**
+- 💬 Ask me about **ReactJs, NodeJs, NestJS, AWS, Java, SpringBoot, Hibernate**
 
 - 📫 How to reach me **prajwalwaghmare819@gmail.com**
 
